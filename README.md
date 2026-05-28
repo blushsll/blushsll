@@ -1,112 +1,50 @@
-
-# ✨ Olá, eu sou o Blush! 👋
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF61F6&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+em+evolução+🚀;Apaixonado+por+tecnologia+💻;Criando+coisas+legais+na+internet+✨" />
+# ✦ Blush ✦
+### `Creative Developer • Roblox Scripter • UI Designer`
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile...;Lua+%2F+Roblox+Studio+Developer;Creating+premium+experiences+✨" />
+
+<br>
+
+<img src="https://i.pinimg.com/originals/8d/4f/8d/8d4f8d0c6cf6f5a7b1d5a8cfd1df6df8.gif" width="100%" />
 
 </div>
 
 ---
 
-## 🌌 Sobre mim
+# 🖤 About Me
 
 ```yaml
-Nome: Blush
-Pronomes: Ele/Dele ♂️
-Localização: Brasil 🇧🇷
-Interesses:
-  - Desenvolvimento
-  - UI/UX
-  - Automação
-  - Tecnologia
-  - Criatividade
-```
+Name: Blush
+Focus: Roblox Development
+Languages: Lua, JavaScript
+Style: Premium + Aesthetic UI
+Learning: Advanced Systems & VFX
 
-<div align="center">
+<br><div align="center">✦ Tech Stack ✦
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3F3dWZ1M3M4NmN2dTF6Y2d5M2M3YzVnYzN4aWl4bXpsdXd1emgxYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="450px"/>
+<img src="https://skillicons.dev/icons?i=lua,js,html,css,vscode,github,figma" /></div>---
 
-</div>
+<div align="center">✦ GitHub Stats ✦
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=blushsll&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" /><img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=blushsll&theme=tokyonight&hide_border=true&background=00000000" /></div>---
 
-# 🚀 Tech Stack
+<div align="center">✦ Activity Graph ✦
 
-<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=blushsll&theme=tokyo-night&hide_border=true&bg_color=00000000" width="95%" /></div>---
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,react,nextjs,html,css,tailwind,mongodb,git,github,vscode" />
-
-</div>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=blushsll&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blushsll&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
-# 🔥 Streak Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=blushsll&theme=radical&hide_border=true&background=0D1117"/>
-
-</div>
-
----
-
-# 🐍 Snake Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-# 🌐 Redes Sociais
-
-<div align="center">
-
-<a href="https://instagram.com/blushsll">
-  <img src="https://img.shields.io/badge/Instagram-ff2ea6?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+<div align="center">✦ Socials ✦
 
 <a href="https://github.com/blushsll">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+</a><a href="https://www.instagram.com/blushsll">
+<img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" />
+</a><a href="https://www.tiktok.com/@blushsll">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+</a></div>---
 
-<a href="https://discord.com">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
+<div align="center">✦ “Building aesthetic experiences with code.” ✦
 
-</div>
-
----
-
-# 🎧 Vibing while coding
-
-<div align="center">
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31w5d2g6x3example&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false"/>
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ “Code. Create. Repeat.” ✨
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:2b2b2b&height=120&section=footer"/></div>
+```
